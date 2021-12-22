@@ -1,11 +1,20 @@
 import React from "react";
-import { Routes, Route, Link } from "react-router-dom";
+import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 
 
 function App() {
     return (
 
-        <h1>Welcome to React Router!</h1>
+        <React.Fragment>
+            <Switch>
+                <Route exact path="/" component={Home} />
+                <Route exact path="/" component={About} />
+                <Route exact path="/" component={Contact} />
+                <Route exact path="/" component={Home} />
+                <Route component={NoMatch} />
+            </Switch>
+
+        </React.Fragment>
 
     );
 }
