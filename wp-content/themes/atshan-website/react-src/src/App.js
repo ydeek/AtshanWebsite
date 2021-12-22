@@ -1,12 +1,14 @@
 import React from "react";
-
+import { Routes, Route, Link } from "react-router-dom";
 
 
 function App() {
     return (
 
-        <button>sign up </button>
+        <h1>Welcome to React Router!</h1>
+
     );
 }
+
 
 export default App;
