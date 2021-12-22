@@ -8,8 +8,7 @@
     "main.js.map": "/AtshanWebsite/wp-content/themes/atshan-website/static/js/main.chunk.js.map",
     "runtime-main.js": "/AtshanWebsite/wp-content/themes/atshan-website/static/js/bundle.js",
     "runtime-main.js.map": "/AtshanWebsite/wp-content/themes/atshan-website/static/js/bundle.js.map",
-    "index.php": "/AtshanWebsite/wp-content/themes/atshan-website/index.php",
-    "static/media/logo.svg": "/AtshanWebsite/wp-content/themes/atshan-website/static/media/logo.5d5d9eef.svg"
+    "index.php": "/AtshanWebsite/wp-content/themes/atshan-website/index.php"
   },
   "entrypoints": [
     "static/js/bundle.js",
