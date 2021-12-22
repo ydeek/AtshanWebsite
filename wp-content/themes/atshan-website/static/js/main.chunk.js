@@ -15,14 +15,14 @@ var _jsxFileName = "C:\\xampp\\htdocs\\AtshanWebsite\\wp-content\\themes\\atshan
 
 
 function App() {
-  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("button", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 7,
+      lineNumber: 8,
       columnNumber: 9
     }
-  }, "Hello my Template");
+  }, "sign up ");
 }
 
 /* harmony default export */ __webpack_exports__["default"] = (App);
@@ -200,5 +200,5 @@ module.exports = __webpack_require__(/*! C:\xampp\htdocs\AtshanWebsite\wp-conten
 
 /***/ })
 
-},[[0,"runtime-main",0]]]);
+},[[0,"runtime-main",1]]]);
 //# sourceMappingURL=main.chunk.js.map

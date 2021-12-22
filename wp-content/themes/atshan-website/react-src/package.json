@@ -3,11 +3,13 @@
     "version": "0.1.0",
     "private": true,
     "dependencies": {
-        "@devloco\/react-scripts-wptheme": "3.4.1-wp.1",
-        "@testing-library\/jest-dom": "^4.2.4",
-        "@testing-library\/react": "^9.5.0",
-        "@testing-library\/user-event": "^7.2.1",
+        "@devloco/react-scripts-wptheme": "3.4.1-wp.1",
+        "@testing-library/jest-dom": "^4.2.4",
+        "@testing-library/react": "^9.5.0",
+        "@testing-library/user-event": "^7.2.1",
+        "bootstrap": "^5.1.3",
         "react": "^17.0.2",
+        "react-bootstrap": "^2.0.4",
         "react-dom": "^17.0.2"
     },
     "scripts": {
@@ -35,6 +37,6 @@
             "last 1 safari version"
         ]
     },
-    "homepage": "\/AtshanWebsite\/wp-content\/themes\/atshan-website",
-    "browserLaunchTo": "http:\/\/localhost\/AtshanWebsite"
+    "homepage": "/AtshanWebsite/wp-content/themes/atshan-website",
+    "browserLaunchTo": "http://localhost/AtshanWebsite"
 }

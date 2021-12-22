@@ -1,7 +1,7 @@
 {
   "files": {
-    "static/js/0.chunk.js": "/AtshanWebsite/wp-content/themes/atshan-website/static/js/0.chunk.js",
-    "static/js/0.chunk.js.map": "/AtshanWebsite/wp-content/themes/atshan-website/static/js/0.chunk.js.map",
+    "static/js/1.chunk.js": "/AtshanWebsite/wp-content/themes/atshan-website/static/js/1.chunk.js",
+    "static/js/1.chunk.js.map": "/AtshanWebsite/wp-content/themes/atshan-website/static/js/1.chunk.js.map",
     "main.css": "/AtshanWebsite/wp-content/themes/atshan-website/static/css/main.chunk.css",
     "main.js": "/AtshanWebsite/wp-content/themes/atshan-website/static/js/main.chunk.js",
     "main.css.map": "/AtshanWebsite/wp-content/themes/atshan-website/static/css/main.chunk.css.map",
@@ -12,7 +12,7 @@
   },
   "entrypoints": [
     "static/js/bundle.js",
-    "static/js/0.chunk.js",
+    "static/js/1.chunk.js",
     "static/css/main.chunk.css",
     "static/js/main.chunk.js"
   ]
