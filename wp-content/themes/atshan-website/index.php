@@ -39,7 +39,7 @@
         Learn how to configure a non-root public URL by running `npm run wpbuild`.
     -->
     <title>React WordPress Theme</title>
-<link href="/AtshanWebsite/wp-content/themes/atshan-website/static/css/main.chunk.css?8b8d2f7a5fdc645021cc" rel="stylesheet"></head>
+<link href="/AtshanWebsite/wp-content/themes/atshan-website/static/css/main.chunk.css?b8c36bbeea2391af9236" rel="stylesheet"></head>
     <body>
     <noscript>
         You need to enable JavaScript to run this app.
@@ -55,5 +55,5 @@
         To begin the development, run `npm run wpstart` or `yarn wpstart`.
         To create a production bundle, use `npm run wpbuild` or `yarn wpbuild`.
     -->
-    <script src="/AtshanWebsite/wp-content/themes/atshan-website/static/js/bundle.js?8b8d2f7a5fdc645021cc"></script><script src="/AtshanWebsite/wp-content/themes/atshan-website/static/js/1.chunk.js?8b8d2f7a5fdc645021cc"></script><script src="/AtshanWebsite/wp-content/themes/atshan-website/static/js/main.chunk.js?8b8d2f7a5fdc645021cc"></script></body>
+    <script src="/AtshanWebsite/wp-content/themes/atshan-website/static/js/bundle.js?b8c36bbeea2391af9236"></script><script src="/AtshanWebsite/wp-content/themes/atshan-website/static/js/0.chunk.js?b8c36bbeea2391af9236"></script><script src="/AtshanWebsite/wp-content/themes/atshan-website/static/js/main.chunk.js?b8c36bbeea2391af9236"></script></body>
 </html>
